@@ -3,7 +3,7 @@
 ## 友情链接
 | Name | Link |
 | ---- | ---- |
-| Bilibili | https://www.bilibili.com |
+| 哔哩哔哩 | https://www.bilibili.com |
 ## 最近更新
 - [第一次写blog](https://github.com/SunJunge08/sjg-blog/issues/2)--2021-08-18
 ## 所有文章
