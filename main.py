@@ -6,7 +6,7 @@ import re
 from github import Github
 
 MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions
+#4
 """
 
 BACKUP_DIR = "BACKUP"
