@@ -1,5 +1,5 @@
 ## Gitblog
-#4
+[sjg-blog主导航帖](https://github.com/SunJunge08/sjg-blog/issues/5)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
