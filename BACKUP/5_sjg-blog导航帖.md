@@ -7,6 +7,7 @@
 [002] [骚话 初中全一册 v1.2](https://github.com/SunJunge08/sjg-blog/issues/3) -- 2021.08.21
 [003] [微信公众号图片文章下载](https://github.com/SunJunge08/sjg-blog/issues/4) -- 2021.08.22
 [004] [sjg-blog导航帖](https://github.com/SunJunge08/sjg-blog/issues/5) -- 2021.08.27
+[005] [骚话 初中全一册 v1.3](https://github.com/SunJunge08/sjg-blog/issues/6) -- 2021.09.04
 
 ### 2.文章分类
 #### （1）随笔感悟类
@@ -15,6 +16,7 @@
 #### （2）骚话鬼畜类
 这部分主要写我的《骚话》成品以及鬼畜。
 **[骚话 初中全一册 v1.2](https://github.com/SunJunge08/sjg-blog/issues/3) -- 2021.08.21**
+**[骚话 初中全一册 v1.3](https://github.com/SunJunge08/sjg-blog/issues/6) -- 2021.09.04**
 #### （3）教程资源类
 写一写自己的一些发现和一些敏感资源的发布。
 **[微信公众号图片文章下载](https://github.com/SunJunge08/sjg-blog/issues/4) -- 2021.08.22**
