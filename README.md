@@ -1,4 +1,4 @@
-# 此项目已停用，新博客地址为：[孙君阁的博客](sunjunge08.github.io)
+# 此项目已停用，新博客地址为：[孙君阁的博客](https://sunjunge08.github.io/)
 
 #### 全部文章
 - [华强买瓜](https://github.com/SunJunge08/sjg-blog/issues/8)--2021-11-08
