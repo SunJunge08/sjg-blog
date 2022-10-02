@@ -1,5 +1,3 @@
-# 此项目已停用，新博客地址为：[孙君阁的博客](https://sunjunge08.github.io/)
-
 #### 全部文章
 [001] [第一次写blog](https://github.com/SunJunge08/sjg-blog/issues/2) -- 2021.08.18
 
